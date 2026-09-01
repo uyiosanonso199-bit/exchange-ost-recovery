@@ -1,0 +1,11 @@
+# Project-specific overrides
+# Generated on 2026-11-10
+*.htm linguist-vendored
+*.min.js linguist-generated
+dist/* linguist-vendored
+*.ts linguist-detectable
+public/**/*.html linguist-vendored
+yarn.lock linguist-generated
+*.min.css linguist-generated
+
+*.tsx linguist-detectable
